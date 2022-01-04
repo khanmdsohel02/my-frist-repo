@@ -1,0 +1,44 @@
+body {
+    font-family: 'Luxurious Roman', cursive;
+    background-color: rgb(241, 226, 226);
+}
+
+p {
+    text-align: justify;
+}
+
+h1 h2 {
+    font-size: 50px;
+}
+
+span {
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+section {
+    display: flex;
+}
+
+.frist-div {
+    width: 50%;
+    padding-left: 12%;
+}
+
+.frist-div img {
+    width: 70%;
+    padding-top: 8%;
+    border-radius: 50%;
+
+
+}
+
+a {
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 15px;
+    font-weight: 600;
+}
+}
